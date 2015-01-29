@@ -11,7 +11,7 @@ Start Chinese Godoc Server:
 
 See:
 
-- http://github.com/Go-zh/godoc-i18n.translations
+- http://github.com/chai2010/golangdoc.translations
 - http://godoc.org/github.com/Go-zh/godoc-i18n/docgen
 - http://godoc.org/github.com/Go-zh/godoc-i18n/local
 
