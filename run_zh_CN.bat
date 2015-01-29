@@ -6,5 +6,6 @@ setlocal
 
 cd %~dp0
 
-set GOPATH="" && golangdoc.exe -http=:6060 -lang=zh_CN
+set GOPATH="" && godoc-i18n.exe -http=:6060 -lang=zh_CN
+
 pause

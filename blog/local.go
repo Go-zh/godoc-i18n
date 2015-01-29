@@ -17,7 +17,7 @@ import (
 	"golang.org/x/tools/godoc/vfs/httpfs"
 	"golang.org/x/tools/godoc/vfs/mapfs"
 
-	"github.com/chai2010/golangdoc/blog"
+	"github.com/Go-zh/godoc-i18n/blog"
 )
 
 const (

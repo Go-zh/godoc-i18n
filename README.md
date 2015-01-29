@@ -6,14 +6,14 @@ Download Chinese Translate:
 
 Start Chinese Godoc Server:
 
-	go get github.com/chai2010/golangdoc
-	golangdoc -http=:6060 -lang=zh_CN
+	go get github.com/Go-zh/godoc-i18n
+	godoc-i18n -http=:6060 -lang=zh_CN
 
 See:
 
-- http://github.com/chai2010/golangdoc.translations
-- http://godoc.org/github.com/chai2010/golangdoc/docgen
-- http://godoc.org/github.com/chai2010/golangdoc/local
+- http://github.com/Go-zh/godoc-i18n.translations
+- http://godoc.org/github.com/Go-zh/godoc-i18n/docgen
+- http://godoc.org/github.com/Go-zh/godoc-i18n/local
 
 
 # BUGS

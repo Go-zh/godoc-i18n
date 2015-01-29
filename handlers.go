@@ -20,7 +20,7 @@ import (
 	"golang.org/x/tools/godoc/redirect"
 	"golang.org/x/tools/godoc/vfs"
 
-	"github.com/chai2010/golangdoc/godoc"
+	"github.com/Go-zh/godoc-i18n/godoc"
 )
 
 var (

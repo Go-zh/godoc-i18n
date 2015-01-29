@@ -55,7 +55,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/chai2010/golangdoc/local"
+	"github.com/Go-zh/godoc-i18n/local"
 )
 
 const usage = `
