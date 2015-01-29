@@ -15,9 +15,3 @@ See:
 - http://godoc.org/github.com/Go-zh/godoc-i18n/docgen
 - http://godoc.org/github.com/Go-zh/godoc-i18n/local
 
-
-# BUGS
-
-Report bugs to chaishushan@gmail.com.
-
-Thanks!
